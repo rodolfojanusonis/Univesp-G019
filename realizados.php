@@ -41,7 +41,7 @@
 
                 <nav class="navbar bg-body-tertiary">
                 <div class="container-fluid">
-                    <form class="d-flex" role="search" action="eventos_realizados.php" method="POST">
+                    <form class="d-flex" role="search" action="realizados.php" method="POST">
                         <input class="form-control me-2" type="search" placeholder="Descrição" aria-label="Search" name="busca" autofocus>
                         <button class="btn btn-outline-success" type="submit">Pesquisar</button>
                     </form>
